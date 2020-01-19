@@ -1,0 +1,4 @@
+- parse param into template string
+- filter sql injection
+- generate sql query 
+- find how to unit test process in build time : mocha is test framework chai is assert library
